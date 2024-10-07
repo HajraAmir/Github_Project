@@ -7,7 +7,6 @@
 
   Responsive Portfolio Website using HTML, CSS, and JavaScript.
 
-  <a href="https://HajraAmir.github.io/Github_Project/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -130,8 +129,3 @@ git clone https://github.com/HajraAmir/Github_Project.git
 
 ```
 
-
-
-### License
-
-This project is **Free To Use** and does not contains any license.
